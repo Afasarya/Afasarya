@@ -1,7 +1,10 @@
 # 💫 About Me:
 - 🔭 I’m currently studying on SMK Telkom Purwokerto 
 - 🌱 I am also looking for work in the Software Developer
-- 🏆 My achievements:<br>1. 2nd place at the National Hackathon Sevent Telkom University Purwokerto
+- 🏆 My achievements:<br>2nd place at the National Hackathon Sevent Telkom University Purwokerto
+<br>1nd place at the National Software Development Dinacom 2025
+<br>2nd place at the National IT Competition Web Design 2025
+
 - 📫 How to reach me: coderea9@gmail.com
 
 
