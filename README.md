@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently studying on SMK Telkom Purwokerto 
+- 🔭 I’m currently studying on Diponegoro University
 - 🌱 I am also looking for work in the Software Developer
 - 🏆 My achievements:<br>2nd place at the National Hackathon Sevent Telkom University Purwokerto
 <br>1st place at the National Software Development Dinacom 2025
